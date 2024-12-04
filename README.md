@@ -1,1 +1,1 @@
-[# site2.io](https://miijji.github.io/site2.io/index.html)
+[# miijji.github.io](https://miijji.github.io/miijji.github.io/index.html)
